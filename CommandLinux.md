@@ -78,3 +78,8 @@
 - `bash` – Inicia shell bash.
 - `export` – Define variáveis de ambiente.
 - `history` – Mostra comandos anteriores.
+
+## Buscar e montar partição
+- sudo fdisk -l
+- sudo mount /dev/nvme0n1p3 [o ~ direciona pra pasta criada ]  ~/WIN_C/
+
