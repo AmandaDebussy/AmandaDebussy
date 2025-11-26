@@ -4,7 +4,7 @@
   Hi 👋, I'm Amanda Debussy <strong>(Mandyoca Debussy)</strong>.<br>
   
 
-<p>🔭 Student of Systems Analysis and Development at UNINTER</p> 
+<p>🔭Systems Analysis and Development </p> 
 <p>🔭 Working With Pixel Art and Projects to the Academic</p>
 <p>🔭 Passion in Learning about New Technologies and New Tools </p>
 
