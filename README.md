@@ -10,8 +10,6 @@
 
 <h3>🚀 I have knowledge of tools and technologies</h3>
 
-</p>
-
 <h3 align="center">🚀 Frontend</h3>
 
 <div align="center">
