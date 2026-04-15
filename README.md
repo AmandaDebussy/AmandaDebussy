@@ -12,7 +12,7 @@
 
 <h3>🚀 I have knowledge of tools and technologies</h3>
 
-<h3 align="center">🚀 Frontend</h3>
+<h3 align="left">🚀 Frontend</h3>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
