@@ -10,7 +10,7 @@
 
 </p>
 
-<h3>🚀 I have knowledge of tools and technologies</h3>
+<h3>I have knowledge of tools and technologies</h3>
 
 <h3 align="left">🚀 Frontend</h3>
 
