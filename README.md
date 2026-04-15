@@ -8,11 +8,13 @@
 <p>🔭 Working With Pixel Art and Projects to the Academic</p>
 <p>🔭 Passion in Learning about New Technologies and New Tools </p>
 
+</p>
+
 <h3>🚀 I have knowledge of tools and technologies</h3>
 
 <h3 align="center">🚀 Frontend</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -24,7 +26,7 @@
 
 ---
 
-<h3 align="center">🎨 Design</h3>
+<h3 align="left">🎨 Design</h3>
 
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
@@ -34,7 +36,7 @@
 
 ---
 
-<h3 align="center">⚙️ Backend & Database</h3>
+<h3 align="left">⚙️ Backend & Database</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -44,7 +46,7 @@
 
 ---
 
-<h3 align="center">☁️ DevOps & Tools</h3>
+<h3 align="Left">☁️ DevOps & Tools</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
