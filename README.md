@@ -82,7 +82,7 @@
 
 <br>
 <h2> 🛡️ Virtudes Desenvolvidas 🛡️</h2>
-<img src="./img/SS.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="100%" height="400px" align="center">
+<img src="./img/SS.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="100%" align="center">
 
 
 
