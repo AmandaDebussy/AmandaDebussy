@@ -46,7 +46,7 @@
 <div align="left">
   <img src="./img/icon/illustration.png" width="40"/>
   <img src="./img/icon/photoshop.png" width="40"/>
-  <img src="./img/icon/Vector(5).png" width="30"/>
+  <img src="./img/icon/Vector.png" width="30"/>
 </div>
 
 ---
