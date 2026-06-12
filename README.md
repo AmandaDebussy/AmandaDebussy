@@ -1,27 +1,40 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> 
-  Hi 👋, I'm Amanda Debussy <strong>(Mandyoca Debussy)</strong>.<br>
-  
-
-<p>🔭Systems Analysis and Development </p> 
-<p>🔭 Working With Pixel Art and Projects to the Academic</p>
-<p>🔭 Passion in Learning about New Technologies and New Tools </p>
+<!-- <img src="./img/thumb-1920-1380935.jpg" height="250px" width="100%"> -->
+<br>
+<br>
+<img src="./img/mainname.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="100%" height="300px" align="center">
+<br>
+<br>
+<!-- <p align="left" style="font-size:25px;"><strong>Amanda Debussy,</strong> conhecida como <strong> "Mandy"</strong> ou <strong>"Mandyoca".</strong><br> -->
+<br>
+<br>
+<p>⚔️ Analista de Sistemas pela universidade UNINTER  </p> 
+<p>⚔️ Trabalho com suporte ao usuário e Infra, porem faço pixel art tambem</p>
+<p>⚔️ Paixao por aprender algo novo e aprimorar meus "arquétipos" </p>
+<p>⚔️ Atualmente aprendendo cloud, infraesturura ,back end e aprimorando técnicas </p>
 
 </p>
 
-<h3>I have knowledge of tools and technologies</h3>
+<img src="./img/timebattle.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="100%" height="250px" align="center">
+
+
+
+
+<br>
+<h2> 🛡️ Conhecimentos que venho adquirindo ao longo da minha jornada 🛡️</h2>
+
 
 <h3 align="left">🚀 Frontend</h3>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
+  <img src="./img/icon/html.png" width="35"/>
+  <img src="./img/icon/css 1.png" width="40"/>
+  <img src="./img/icon/javascript 1.png" width="40"/>
+  <img src="./img/icon/bootstrap.png" width="50"/>
+  <img src="./img/icon/react.png" width="50"/>
+  <img src="./img/icon/vite.png" width="40"/>
+  <img src="./img/icon/sass 1.png" width="40"/>
+  <img src="./img/icon/tailwind.png" width="40"/>
 
 </div>
 
@@ -29,10 +42,11 @@
 
 <h3 align="left">🎨 Design</h3>
 
+
 <div align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+  <img src="./img/icon/illustration.png" width="40"/>
+  <img src="./img/icon/photoshop.png" width="40"/>
+  <img src="./img/icon/Vector(5).png" width="30"/>
 </div>
 
 ---
@@ -40,10 +54,10 @@
 <h3 align="left">⚙️ Backend & Database</h3>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-  <img width="40"  alt="node" src="https://github.com/user-attachments/assets/07b53231-5c82-47c3-b6de-928f345dfc43" />
+  <img src="./img/icon/node.png" width="40"/>
+  <img src="./img/icon/typescript 1.png" width="40"/>
+  <img src="./img/icon/php.png" width="50"/>
+  <img src="img/icon/sql.png" width="60"/ >
 </div>
 
 ---
@@ -51,16 +65,41 @@
 <h3 align="Left">☁️ DevOps & Tools</h3>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+  <img src="./img/icon/aws.png" width="40"/>
+  <img src="./img/icon/googlecloud.png" width="40"/>
+  <img src="./img/icon/oracle.png" width="40"/>
+  <img src="./img/icon/docker.png" width="40"/>
+  <img src="./img/icon/git.png" width="40"/>
+  <img src="./img/icon/github.png" width="40"/>
+  <img src="./img/icon/linux.png" width="40"/>
+  <img src="./img/icon/windows.png" width="40"/>
+  <img src="./img/icon/grafrana.png" width="40"/>
 </div>
 
 ---
-<p align="left">
-  💌 Contact me ⤵️
+
+
+
+<br>
+<h2> 🛡️ Virtudes Desenvolvidas 🛡️</h2>
+<img src="./img/SS.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="100%" height="400px" align="center">
+
+
+
+
+
+
+
+
+<!-- <h3> 📖 Toda jornada começa com um sonho, mas apenas a determinação transforma sonhos em realidade.</h3>
+<img src="./img/images.steamusercontent.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="200px" height="250px" align="center"> -->
+
+
+
+
+
+<!-- <p align="left">
+  💌  ⤵️
 </p>
 
 <p align="left">
@@ -74,4 +113,4 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+</p> -->
